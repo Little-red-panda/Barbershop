@@ -142,7 +142,7 @@ input[type="radio"].visually-hidden {
     
 }
 
-.cite-navigation {
+.site-navigation {
     display: flex;
     flex-wrap: wrap;
     width: 700px;
@@ -160,12 +160,12 @@ input[type="radio"].visually-hidden {
     margin-left: auto;
 }
 
-.cite-navigation,
+.site-navigation,
 .user-navigation {
     list-style: none;
 }
 
-.cite-navigation a,
+.site-navigation a,
 .user-navigation a {
     color: #f7f4f1;
     display: block;
@@ -221,9 +221,9 @@ input[type="radio"].visually-hidden {
     opacity: 1;
 }
 
-.cite-navigation a:hover,
+.site-navigation a:hover,
 .user-navigation a:hover,
-.cite-navigation a:active,
+.site-navigation a:active,
 .user-navigation a:active {
     background-color: #242424;
 }
